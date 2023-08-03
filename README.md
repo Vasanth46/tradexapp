@@ -1,7 +1,5 @@
 # TradeX
 
-# Trading Website Readme
-
 Welcome to the README for your trading website! This document will provide an overview of your website's features, functionalities, and how to set it up.
 
 
