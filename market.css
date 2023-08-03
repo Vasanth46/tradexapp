@@ -1,0 +1,87 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg,#370c33,#77177b);
+  }
+  
+  /* ...existing styles... */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  position: relative;
+}
+
+
+ 
+  
+
+  .coin {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+  }
+  .coin-image{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}  
+  
+  .coin-name {
+    font-weight: normal;
+    color: #fff;
+  }
+  
+  .coin-price {
+    color: #ffac3e;
+    margin-right: 150px;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  .coin-details{
+    display: flex;
+    align-items: center;
+  }
+  .coin-volume{
+    font-weight: normal;
+    color: #fff;
+  }
+  input {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Style the header and center its content */
+  header {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Style the h1 heading inside the header */
+  header h1 {
+    margin: 0;
+    color: #333;
+  }
+  
+  /* Style the search input */
+  #searchInput {
+    width: 100%;
+    max-width: 400px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  /* Optional: Add some spacing below the search input */
+  #searchInput {
+    margin-bottom: 20px;
+  }
+
+  
